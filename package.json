@@ -2,6 +2,6 @@
   "name": "productivity-management",
   "version": "1.0.0",
   "scripts": {
-    "test": "node test.js"
+    "test": "node tests/test.js"
   }
 }

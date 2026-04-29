@@ -1,0 +1,12 @@
+# Test reports (generated on every run)
+tests/reports/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+
+# Environment variables
+.env
+.env.local
